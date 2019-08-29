@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tabungan Qurban</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email anda</string>
+    <string name="prompt_password">Password anda</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo_tq">icon</string>
+    <string name="forgot_pass">Lupa kata sandi?</string>
+    <string name="bismillah">Dengan mengucap bismillah</string>
+    <string name="login_with">Login dengan</string>
+    <string name="icon_google">icon google</string>
+    <string name="icon_facebook">icon facebook</string>
+    <string name="note_have_an_account">Belum punya akun?</string>
+    <string name="registration_now">Daftar yuk</string>
+</resources>

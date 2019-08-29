@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870227990042",
+    "firebase_url": "https://tabungan-qurban-4ccd6.firebaseio.com",
+    "project_id": "tabungan-qurban-4ccd6",
+    "storage_bucket": "tabungan-qurban-4ccd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870227990042:android:6fdf11b431ef98e7",
+        "android_client_info": {
+          "package_name": "com.efendiyt.tabunganqurban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870227990042-e0phhgc9a1i2u0u9nrkfugv20bqbtqv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efendiyt.tabunganqurban",
+            "certificate_hash": "5bde548331bf7a95b3eb8348c8f79f73428ed84d"
+          }
+        },
+        {
+          "client_id": "870227990042-j6ha6inlmhivgg3vg7liq6u2v9lt693k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidRF7f2Ro3q_BIM1l9eqIIyNpDdgKG-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870227990042-j6ha6inlmhivgg3vg7liq6u2v9lt693k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
