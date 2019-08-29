@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Tabungan Qurban</string>
     <string name="title_activity_login">Sign in</string>
-    <string name="prompt_email">Email anda</string>
-    <string name="prompt_password">Password anda</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="welcome">"Welcome !"</string>
@@ -17,4 +17,9 @@
     <string name="icon_facebook">icon facebook</string>
     <string name="note_have_an_account">Belum punya akun?</string>
     <string name="registration_now">Daftar yuk</string>
+    <string name="confirm_pass">Masukan password yang sama</string>
+    <string name="full_name">Nama lengkap</string>
+    <string name="registration">Daftar</string>
+    <string name="you_have_an_account">Sudah punya akun?</string>
+    <string name="sign_in">Login yuk</string>
 </resources>
