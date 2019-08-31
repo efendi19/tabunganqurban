@@ -97,7 +97,8 @@
 
                     <com.google.android.material.textfield.TextInputLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
+                        android:layout_height="wrap_content"
+                        app:passwordToggleEnabled="true">
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/password"
                             android:layout_width="match_parent"
@@ -106,7 +107,6 @@
                             android:imeActionLabel="@string/action_sign_in_short"
                             android:selectAllOnFocus="true"
                             android:inputType="textPassword"
-                            android:drawableEnd="@drawable/ic_visibility_off"
                             android:imeOptions="actionDone"
                             android:layout_marginBottom="12dp">
 
@@ -115,7 +115,8 @@
 
                     <com.google.android.material.textfield.TextInputLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content">
+                        android:layout_height="wrap_content"
+                        app:passwordToggleEnabled="true">
                         <com.google.android.material.textfield.TextInputEditText
                             android:id="@+id/confirm_password"
                             android:layout_width="match_parent"
@@ -132,13 +133,6 @@
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
-
-            <!--    <ProgressBar-->
-            <!--        android:id="@+id/loading"-->
-            <!--        android:layout_width="wrap_content"-->
-            <!--        android:layout_height="wrap_content"-->
-            <!--        android:layout_gravity="center"-->
-            <!--        android:visibility="visible" />-->
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -163,6 +157,13 @@
                     android:text="@string/registration"
                     android:textColor="@android:color/white"
                     android:background="@drawable/rounded_green" />
+
+                    <ProgressBar
+                        android:id="@+id/loading"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:visibility="gone" />
 
             </LinearLayout>
             <LinearLayout

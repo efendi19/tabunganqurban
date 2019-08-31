@@ -22,4 +22,13 @@
     <string name="registration">Daftar</string>
     <string name="you_have_an_account">Sudah punya akun?</string>
     <string name="sign_in">Login yuk</string>
+    <string name="idToken">870227990042-j6ha6inlmhivgg3vg7liq6u2v9lt693k.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="tabungan">Tabungan</string>
+    <string name="history">History</string>
+    <string name="notif">Notifikasi</string>
+    <string name="profile">Profile</string>
+
 </resources>
